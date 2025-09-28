@@ -22,7 +22,7 @@ Pressing the **esc** key during gameplay will take the user to the pause menu wh
 ## Installation and Setup
 To run the game, users need to set up the database using **XAMPP**:  
 
-1. Download and install **XAMPP** ([https://www.apachefriends.org](https://www.apachefriends.org))  
+1. Download and install **XAMPP** [https://www.apachefriends.org](https://www.apachefriends.org)
 2. Open the **XAMPP Control Panel**
 3. Start **Apache** and **MySQL** servers  
 4. Access the database in a browser at [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/)  
