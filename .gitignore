@@ -1,0 +1,18 @@
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Build/test artifacts
+*.egg-info/
+dist/
+build/
+
